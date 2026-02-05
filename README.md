@@ -4,7 +4,7 @@
 
 ![Release](https://img.shields.io/github/v/release/xpn-arcos/xpn-adhoc)
 ![License](https://img.shields.io/github/license/xpn-arcos/xpn-adhoc)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ca0c40db97f64698a2db9992cafdd4ab)](https://www.codacy.com/gh/xpn-arcos/xpn/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=xpn-arcos/xpn&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e34825511e2649c8b26f422b23831673)](https://app.codacy.com/gh/xpn-arcos/xpn-adhoc/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 * *Homepage*: <https://xpn-arcos.github.io/xpn-arcos.github.io/>
 * *Source*:   <https://github.com/xpn-arcos/xpn>
